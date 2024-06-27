@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @coconut-prime
 - 👀 I’m interested in ... nerd shit (i.e in depth code reviews)
-- 🌱 I’m currently learning ... Frameworks
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... computer engineering
+- 💞️ I’m looking to collaborate on ... anything where I don't use assembly
 - 📫 How to reach me ... Discord: coconutprime
 - ⚡ Fun fact: ...
 
